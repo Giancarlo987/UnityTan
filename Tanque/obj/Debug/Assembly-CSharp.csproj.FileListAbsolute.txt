@@ -1,0 +1,2 @@
+/Users/GiancarloSanchezH/Documents/Tanque/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/GiancarloSanchezH/Documents/Tanque/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
