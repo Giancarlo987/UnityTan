@@ -1,10 +1,12 @@
 ﻿<Properties StartupConfiguration="{4AC6A747-C66D-6258-F24E-CAC308550FC8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MovimientoArriba.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Cabeza.cs">
     <Files>
+      <File FileName="Assets/RayCaster.cs" Line="20" Column="6" />
       <File FileName="Assets/Script/MovimientoTanque.cs" Line="40" Column="6" />
       <File FileName="Assets/Script/MovimientoBala.cs" Line="21" Column="37" />
       <File FileName="Assets/Script/EliminarObstaculo.cs" Line="20" Column="53" />
       <File FileName="Assets/MovimientoArriba.cs" Line="1" Column="1" />
+      <File FileName="Assets/Cabeza.cs" Line="10" Column="11" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
